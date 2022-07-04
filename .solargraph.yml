@@ -1,0 +1,11 @@
+require_paths:
+# - "C:/Program Files/SketchUp/SketchUp 2021/Tools"
+# - /Users/rafaelrivera/Library/Application%20Support/SketchUp%202022
+- /Applications/SketchUp%202022
+- src
+
+require:
+- sketchup-api-stubs
+
+reporters:
+- rubocop
